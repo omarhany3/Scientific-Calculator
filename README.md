@@ -6,7 +6,6 @@
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
-- Trigonometric functions: sine, cosine, tangent, and their inverses
 - Logarithmic and exponential functions
 - Power and root calculations
 - Factorial computation
